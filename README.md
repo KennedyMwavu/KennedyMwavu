@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennedyMwavu
-- 👀 I’m interested in data analysis and visualization.
+- 👀 I’m interested in data analysis and visualization, R, Python and C++.
 - 🌱 I’m currently learning ML.
 
 <!---

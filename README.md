@@ -39,7 +39,7 @@ My **tech-stack** is as follows:
 - R and R Shiny
 - Python
 - PostgreSQL
-- LaTex
+- LaTeX
 
 
 ### Website

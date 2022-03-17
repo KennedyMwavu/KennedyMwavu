@@ -1,6 +1,6 @@
 <h1 align = "center"> KENNEDY MWAVU </h1>
 
-<h2 align = "center"> R Shiny Developer, actserv </h2>
+<h2 align = "center"> R Shiny Developer, <a href = "https://actserv.co.ke/">actserv</a> </h2>
 
 📝 **Personal website:** [mwavu.com](https://www.mwavu.com/)
 

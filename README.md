@@ -18,7 +18,7 @@ I build production grade dashboards using [R Shiny](https://shiny.rstudio.com/) 
 
 Most often the process involves communication between the application and a database ie. performing CRUD operations (Create, Read, Update, Delete).
 
-The good thing is that you can do all this from my dashboards, with zero database knowledge. So I do the heavylifting, you just have to worry about inputing the correct data.
+The good thing is that you can do all this from my dashboards, with zero database knowledge. So I do the heavylifting, you just have to worry about inputting the correct data.
 
 ### Lately
 

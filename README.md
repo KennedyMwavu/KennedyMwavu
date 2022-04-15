@@ -43,6 +43,6 @@ My **tech-stack** is as follows:
 
 
 ### Website
-Visit [mwavu.com](mwavu.com) to view my portfolio and some of the projects I've worked on. 
+Visit [mwavu.com](https://www.mwavu.com/) to view my portfolio and some of the projects I've worked on. 
 
 All the code for the projects is also linked to my github repositories.

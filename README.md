@@ -22,7 +22,7 @@ The good thing is that you can do all this from my dashboards, with zero databas
 
 ### Lately
 
-Recently, after work and school hours (I'm still a student) I engage in:
+Recently, after work I engage in:
 - 📖 Learning HTML, CSS & JavaScript. A combination of these with R Shiny is going to be bomb!💣
 - 🌱 Writing on my blog. It's like a garden where I plant the best seeds I come across.
 

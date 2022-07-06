@@ -8,23 +8,7 @@
 
 🐦 **Twitter:** [@kennedymwavu](https://twitter.com/kennedymwavu)
 
-<img align = "right" src = "https://user-images.githubusercontent.com/65233968/158720967-d4ac751a-edc8-49b4-8456-c9d6a61fcafb.png" width = 300>
-
-
-### What I Do
-I'm a `self-taught` programmer specifically working as an R shiny developer.
-
-I build production grade dashboards using [R Shiny](https://shiny.rstudio.com/) for data analysis and interactive data visualization. 
-
-Most often the process involves communication between the application and a database ie. performing CRUD operations (Create, Read, Update, Delete).
-
-The good thing is that you can do all this from my dashboards, with zero database knowledge. So I do the heavylifting, you just have to worry about inputting the correct data.
-
-### Lately
-
-Recently, after work I engage in:
-- 📖 Learning HTML, CSS & JavaScript. A combination of these with R Shiny is going to be bomb!💣
-- 🌱 Writing on my blog. It's like a garden where I plant the best seeds I come across.
+I am a software developer with 2 years of industry experience building websites and web applications. I am proficient in R/R Shiny and have experience working with HTML, CSS & JavaScript. I also have experience working with Python and SQL. Take a look at my work or get in touch! [www.mwavu.com](https://mwavu.com/)
 
 ### Experience
 - 2021 July - Present: R Shiny Developer (actserv)
@@ -35,10 +19,10 @@ Recently, after work I engage in:
 - 2014 - 2017: KCSE (Alliance High School)
 
 ### Tech-Stack
-My **tech-stack** is as follows:
-- R and R Shiny
-- Python
+- R/R Shiny
+- HTML, CSS & JS
 - PostgreSQL
+- Python
 - LaTeX
 
 

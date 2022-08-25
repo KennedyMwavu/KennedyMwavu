@@ -23,7 +23,6 @@ I am a software developer with 2 years of industry experience building websites 
 - HTML, CSS & JS
 - PostgreSQL
 - Python
-- LaTeX
 
 
 ### Website

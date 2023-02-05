@@ -1,1 +1,1 @@
-R shiny developer.
+R developer.

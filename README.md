@@ -1,1 +1,1 @@
-Build, Ship. Iterate.
+Software Developer.

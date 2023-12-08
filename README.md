@@ -1,1 +1,1 @@
-Software Developer.
+Just typing R code.

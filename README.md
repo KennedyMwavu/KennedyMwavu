@@ -1,1 +1,1 @@
-Just typing R code.
+i write R for fun & profit.
